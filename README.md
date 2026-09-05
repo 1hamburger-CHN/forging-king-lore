@@ -13,6 +13,7 @@
 - [人物关系](lore/relationships.md)
 - [组织设定](lore/organizations.md)
 - [地缘与政局](lore/geopolitics.md)
+- [区域与城镇志](lore/regions-and-cities.md)
 - [世界内文献](lore/library)
 
 所有内容仍在持续创作与修订。
