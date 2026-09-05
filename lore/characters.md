@@ -9,9 +9,12 @@
 - 米·斯尤 / Misyu
 - 初茹·郑 / Churu Zheng
 - 卢娜 / Luna
-- 莱恩怀特 / Dr. White
+- 莱恩·怀特 / Dr. White
 - 镭 / Radianthus
 - 玛卡·玛哈 / Maka & Maha（蝶变双子）
+- 黑曜石 / Obsidian
+- 坎迪拉 / Candela
+- 瓦莱里乌斯 / Valerius（铁血公爵）
 
 ## 铁 / Ferranthus
 
@@ -92,7 +95,7 @@
 - **关联器械**：弹影金镯
 - **现状**：覆灭时唯一幸存（外界认为无人生还），后续故事待展开
 
-## 莱恩怀特 / Dr. White
+## 莱恩·怀特 / Dr. White
 
 - **称号**：科学狂人
 - **时代**：远古纪元（起源之火发现后约480代）
